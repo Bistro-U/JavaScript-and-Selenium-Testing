@@ -1,0 +1,24 @@
+{
+    "name": "selenium",
+    "version": "1.0.0",
+    "description": "selenium test with js",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/VinhNGuyen05/Selenium-js.git"
+    },
+    "author": "VinhNguyen",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/VinhNGuyen05/Selenium-js/issues"
+    },
+    "homepage": "https://github.com/VinhNGuyen05/Selenium-js#readme",
+    "dependencies": {
+        "chromedriver": "^102.0.0",
+        "geckodriver": "^3.0.1",
+        "selenium-webdriver": "^4.2.0"
+    }
+}
